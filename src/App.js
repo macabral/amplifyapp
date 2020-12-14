@@ -7,7 +7,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Author: Marco Aurélio</p>
-        <p>Gihub: https://github.com/macabral</p>
+         <a
+          className="App-link"
+          href="b: https://github.com/macabral"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+              <p>Gihub: https://github.com/macabral
+        </a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
