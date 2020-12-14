@@ -9,11 +9,11 @@ function App() {
         <p>Author: Marco Aurélio</p>
          <a
           className="App-link"
-          href="b: https://github.com/macabral"
+          href="https://github.com/macabral"
           target="_blank"
           rel="noopener noreferrer"
         >
-              <p>Gihub: https://github.com/macabral
+          Gihub: https://github.com/macabral
         </a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
