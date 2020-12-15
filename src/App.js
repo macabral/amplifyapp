@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gihub: https://github.com/macabral
+          Github: https://github.com/macabral
         </a>
         <p>
           Edit <code>src/App.js</code> and save to reload.
